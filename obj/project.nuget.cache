@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mecbz8lCybrQBsPWsY+FNGg+SEI7rZEKTXvUmKdOts0A11aoXXURIdwexPBZBm/V5Sjm1k0RiYcuxuuA54DDdg==",
+  "success": true,
+  "projectFilePath": "/Users/anand/spikes/csharp/core/private_test/private_test.csproj",
+  "expectedPackageFiles": [
+    "/Users/anand/.nuget/packages/lovelyshiva/1.0.2/lovelyshiva.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
